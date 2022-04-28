@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651136914,
+	"version": 1651139519,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,14 @@
 		"images/clickerpng-sheet0.png",
 		"images/waterwormlogo-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/buylake-sheet0.png",
+		"images/sprite9-sheet0.png",
 		"media/bg.ogg",
 		"media/click.ogg",
 		"media/shop.ogg",
